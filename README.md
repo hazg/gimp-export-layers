@@ -7,8 +7,10 @@ Export GIMP layers to files
 Installing
 ==========
 
-Put export-layers.py to you ~/.gimp-*/plug-ins/ directory.
-Restart GIMP, File->Export layers->As PNG
+* Put export-layers.py to you ~/.gimp-*/plug-ins/ directory.
+* chmod +x export-layers.py, if it does't.
+* Restart GIMP
+* File->Export layers->As PNG
 
 Changes
 =======
