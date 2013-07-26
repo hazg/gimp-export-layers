@@ -16,6 +16,7 @@ Changes
 =======
 
 Remove submenu "To PNG"
+
 Cut extension from exported filename. Now it's looks like imagename-layername.png
 
 Original autor
