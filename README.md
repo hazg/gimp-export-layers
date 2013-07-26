@@ -16,3 +16,8 @@ Changes
 =======
 
 Cut extension from exported filename. Now it's looks like imagename-layername.png
+
+Original autor
+==============
+
+Chris Mohler <cr33dog@gmail.com>
