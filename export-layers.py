@@ -76,7 +76,7 @@ register(
 	author=("Chris Mohler <cr33dog@gmail.com>"),
 	copyright=("Chris Mohler"),
 	date=("2009"),
-	label=("as _PNG"),
+	label=("E_xport Layers to PNG"),
 	imagetypes=("*"),
 	params=[
 		(PF_IMAGE, "img", "Image", None),
@@ -89,7 +89,7 @@ register(
 		],
 	results=[],
 	function=(export_layers), 
-	menu=("<Image>/File/E_xport Layers"), 
+	menu=("<Image>/File"), 
 	domain=("gimp20-python", gimp.locale_directory)
 	)
 
