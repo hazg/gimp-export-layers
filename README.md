@@ -25,3 +25,7 @@ Original author
 ===============
 
 Chris Mohler <cr33dog@gmail.com>
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hazg/gimp-export-layers/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
